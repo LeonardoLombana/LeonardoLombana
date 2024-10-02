@@ -1,4 +1,5 @@
 ## Hola mi nombre es Leonardo Lombana Contento 👋
+### QA Engineer & Desarrollador Web
 
 <!--
 **LeonardoLombana/LeonardoLombana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
