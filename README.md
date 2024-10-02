@@ -5,7 +5,7 @@
 <img src="./encabezado.png" style="height:400px;" >
 </div>
 
-### 👨‍🎓 Sobre mi
+### 🙋‍♂️ Sobre mi
 Soy un profesional titulado en ingeniería de software con una reciente transición al campo del aseguramiento de calidad (QA). He adquirido competencias en análisis de requisitos, diseño y ejecución de pruebas, seguimiento de errores, pruebas de aplicaciones web y móviles.
 
 Además, tengo conocimientos en SQL, Python, Selenium, Jira, Postman. Estas competencias me permiten realizar pruebas manuales, automatizadas y de API de manera eficiente, enfocado en crear y mantener casos de prueba detallados y alineados con las necesidades del usuario y del negocio.
