@@ -31,6 +31,18 @@ A lo largo de mi carrera he logrado obtener 10 años de experiencia en el ámbit
 <img src="./habilidades.png" " >
 </div>
 
+### Proyectos como QA Engineer 
+- Generar listas de comprobación
+  
+Durante este proyecto genere una lista de comprobación para la aplicación de pruebas URBAN SCOOTER, basado en los requerimientos. 
+
+<a href="https://docs.google.com/spreadsheets/d/1rlLtiLr6nhKXUhHkc3q1P3BwFlJnfo9cY6PTmsHsjUI/edit?gid=925489201#gid=925489201">Ver proyecto</a>
+
+- Validación de datos
+
+Aplicando valores limites, clases de equivalencia se logro aplicar pruebas optimas a los datos de URBAN SCOOTER.
+
+<a href="https://docs.google.com/spreadsheets/d/1rlLtiLr6nhKXUhHkc3q1P3BwFlJnfo9cY6PTmsHsjUI/edit?gid=1773528289#gid=1773528289 ">Ver proyecto</a>
 
 
 <!--
