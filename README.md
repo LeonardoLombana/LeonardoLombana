@@ -12,9 +12,11 @@ Además, tengo conocimientos en SQL, Python, Selenium, Jira, Postman. Estas comp
 
 A lo largo de mi carrera he logrado obtener 10 años de experiencia en el ámbito de IT, brindado soporte a usuarios, gestionado tecnologías de virtualización y administrado sistemas de telecomunicaciones. Donde desarrollé habilidades cruciales como la comunicación clara, la empatía y la resolución de problemas bajo presión. Estas experiencias me enseñaron la importancia de ser adaptable y resiliente en un entorno laboral dinámico y centrado en el cliente.
 
-<div align="center">
+
+[![Mi portafolio](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lc02@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lombana-contento)
   <a href="https://leonardolombanacontento-qaengineer.vercel.app/">Visita mi portafilio web</a>
-</div>
+
 
 
 ### 🚀 Habilidades y Tecnologías
@@ -29,6 +31,9 @@ A lo largo de mi carrera he logrado obtener 10 años de experiencia en el ámbit
 <div align="center" style="border-radius: 20px;">
 <img src="./habilidades.png" " >
 </div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JPSM87)
+
 <!--
 **LeonardoLombana/LeonardoLombana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
