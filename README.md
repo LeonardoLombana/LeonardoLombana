@@ -1,8 +1,8 @@
 
 ## Hola mi nombre es Leonardo Lombana Contento 👋
 ### QA Engineer & Desarrollador Web
-<div align="center" >
-<img src="./encabezado.png" style="height:400px; border-radius: 20px;">
+<div align="center" style="border-radius: 20px;">
+<img src="./encabezado.png" style="height:400px;" >
 </div>
 
 <!--
