@@ -12,6 +12,16 @@ Además, tengo conocimientos en SQL, Python, Selenium, Jira, Postman. Estas comp
 
 A lo largo de mi carrera he logrado obtener 10 años de experiencia en el ámbito de IT, brindado soporte a usuarios, gestionado tecnologías de virtualización y administrado sistemas de telecomunicaciones. Donde desarrollé habilidades cruciales como la comunicación clara, la empatía y la resolución de problemas bajo presión. Estas experiencias me enseñaron la importancia de ser adaptable y resiliente en un entorno laboral dinámico y centrado en el cliente.
 
+### 🚀 Habilidades y Tecnologías
+- **Metodologías Ágiles:** Scrum
+- **Gestión de Proyectos:** Trello, JIRA
+- **Pruebas de Software:** Pruebas manuales, pruebas de UI, pruebas de aplicaciones móviles
+- **Análisis de Requisitos:** Diseño de pruebas, casos de prueba, listas de comprobación
+- **Herramientas de Pruebas:** Postman, Android Studio
+- **Bases de Datos:** SQL, gestión de datos, sentencias SQL (agregar, ordenar, agrupar, unir tablas)
+- **CLI (Interfaz de Línea de Comandos):** Navegación y gestión de servidores remotos
+- **Seguimiento de Bugs:** JIRA, creación de informes de errores detallados
+
 <!--
 **LeonardoLombana/LeonardoLombana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
