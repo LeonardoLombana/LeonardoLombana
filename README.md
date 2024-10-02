@@ -66,7 +66,7 @@ Utilizando herramientas como PyCharm, basado en lenguaje PYTHON y con SELENIUM W
 
 Con la copilación de cada prueba y detección de errores se documentaron, gestinados por medio de JIRA.
 
-<img src="./reportesJira.png">
+<a href="./reportesJira.png">Ver proyecto</a>
 <!--
 **LeonardoLombana/LeonardoLombana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
