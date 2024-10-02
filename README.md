@@ -15,7 +15,7 @@ A lo largo de mi carrera he logrado obtener 10 años de experiencia en el ámbit
 
 [![Mi portafolio](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lc02@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lombana-contento)
-[![Mi portafolio web](https://img.shields.io/badge/Mi%20portafolio%20web-blue?style=for-the-badge)]([https://www.linkedin.com/in/leonardo-lombana-contento](https://leonardolombanacontento-qaengineer.vercel.app/))
+[![Mi portafolio web](https://img.shields.io/badge/Mi%20portafolio%20web-blue?style=for-the-badge)](https://leonardolombanacontento-qaengineer.vercel.app/)
 
 ### 🚀 Habilidades y Tecnologías
 - **Metodologías Ágiles:** Scrum
