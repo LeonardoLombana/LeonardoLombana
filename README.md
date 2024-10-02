@@ -5,7 +5,7 @@
 <img src="./encabezado.png" style="height:400px;" >
 </div>
 
-### Sobre mi
+###👨‍🎓 Sobre mi
 Soy un profesional titulado en ingeniería de software con una reciente transición al campo del aseguramiento de calidad (QA). He adquirido competencias en análisis de requisitos, diseño y ejecución de pruebas, seguimiento de errores, pruebas de aplicaciones web y móviles.
 
 Además, tengo conocimientos en SQL, Python, Selenium, Jira, Postman. Estas competencias me permiten realizar pruebas manuales, automatizadas y de API de manera eficiente, enfocado en crear y mantener casos de prueba detallados y alineados con las necesidades del usuario y del negocio.
@@ -31,8 +31,8 @@ A lo largo de mi carrera he logrado obtener 10 años de experiencia en el ámbit
 <img src="./habilidades.png" " >
 </div>
 
-### Proyectos como QA Engineer 
-- Generar listas de comprobación
+###  💻🔎 Proyectos como QA Engineer 
+- Generar listas de comprobación 
   
 Durante este proyecto genere una lista de comprobación para la aplicación de pruebas URBAN SCOOTER, basado en los requerimientos. 
 
@@ -44,7 +44,29 @@ Aplicando valores limites, clases de equivalencia se logro aplicar pruebas optim
 
 <a href="https://docs.google.com/spreadsheets/d/1rlLtiLr6nhKXUhHkc3q1P3BwFlJnfo9cY6PTmsHsjUI/edit?gid=1773528289#gid=1773528289 ">Ver proyecto</a>
 
+- Pruebas de aplicación movil
 
+Genere un listado detallado de casos de prueba en busqueda de errores en la aplicacion movil URBAN SCOOTER.
+
+<a href="https://docs.google.com/spreadsheets/d/1rlLtiLr6nhKXUhHkc3q1P3BwFlJnfo9cY6PTmsHsjUI/edit?gid=209788220#gid=209788220">Ver proyecto</a>
+
+- Pruebas de Apis
+
+Con la ayuda de la herramienta POSTMAN, logre comprender y aplicar el concepto de realizar solicitude REST a la api de URBAN SCOOTER.
+
+<a href="https://docs.google.com/spreadsheets/d/1rlLtiLr6nhKXUhHkc3q1P3BwFlJnfo9cY6PTmsHsjUI/edit?gid=208990263#gid=208990263">Ver proyecto</a>
+
+- Pruebas automatizadas
+
+Utilizando herramientas como PyCharm, basado en lenguaje PYTHON y con SELENIUM WEB, genere pruebas atomatizadas en la aplicación URBAN ROUTES.
+
+<a href="https://github.com/LeonardoLombana/qa-project-Urban-Routes-es">Ver proyecto</a>
+
+- Reporte de errores
+
+Con la copilación de cada prueba y detección de errores se documentaron, gestinados por medio de JIRA.
+
+<img src="./reportesJira.png">
 <!--
 **LeonardoLombana/LeonardoLombana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
