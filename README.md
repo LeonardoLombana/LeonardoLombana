@@ -1,5 +1,8 @@
+<div align="center">
 ## Hola mi nombre es Leonardo Lombana Contento 👋
 ### QA Engineer & Desarrollador Web
+</div>
+
 <img src="./fondoEncabezado.jpg">
 
 <!--
