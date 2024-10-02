@@ -1,6 +1,6 @@
 ## Hola mi nombre es Leonardo Lombana Contento 👋
 ### QA Engineer & Desarrollador Web
-<img src="fondoEncabezado.png">
+<img src="./fondoEncabezado.jpg">
 
 <!--
 **LeonardoLombana/LeonardoLombana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
