@@ -12,6 +12,7 @@ Además, tengo conocimientos en SQL, Python, Selenium, Jira, Postman. Estas comp
 
 A lo largo de mi carrera he logrado obtener 10 años de experiencia en el ámbito de IT, brindado soporte a usuarios, gestionado tecnologías de virtualización y administrado sistemas de telecomunicaciones. Donde desarrollé habilidades cruciales como la comunicación clara, la empatía y la resolución de problemas bajo presión. Estas experiencias me enseñaron la importancia de ser adaptable y resiliente en un entorno laboral dinámico y centrado en el cliente.
 
+### 📫 Contactame
 
 [![Mi portafolio](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.lc02@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lombana-contento)
