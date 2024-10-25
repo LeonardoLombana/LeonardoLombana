@@ -1,6 +1,6 @@
 
 ## Hola mi nombre es Leonardo Lombana Contento 👋
-### QA Engineer & Desarrollador Web
+### QA Engineer
 <div align="center" style="border-radius: 20px;">
 <img src="./encabezado.png" style="height:400px;" >
 </div>
